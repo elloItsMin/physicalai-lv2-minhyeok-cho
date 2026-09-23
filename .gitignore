@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+output/
+*.o
+*.elf
+*.bin
+*.hex
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
