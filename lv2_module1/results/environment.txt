@@ -1,0 +1,31 @@
+=== Hostname ===
+pa44
+
+=== OS ===
+PRETTY_NAME="Ubuntu 22.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.5 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+
+=== Architecture ===
+aarch64
+
+=== User / groups ===
+pa44
+pa44 adm dialout cdrom floppy sudo audio dip video plugdev netdev lxd
+
+=== OpenCR serial port ===
+lrwxrwxrwx 1 root root 13 Sep 23 10:34 /dev/serial/by-id/usb-ROBOTIS_OpenCR_Virtual_ComPort_in_FS_Mode_FFFFFFFEFFFF-if00 -> ../../ttyACM0
+
+=== OpenCR device information ===
+DEVNAME=/dev/ttyACM0
+ID_VENDOR=ROBOTIS
+ID_MODEL=OpenCR_Virtual_ComPort_in_FS_Mode
