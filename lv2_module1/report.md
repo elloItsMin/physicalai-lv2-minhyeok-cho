@@ -878,8 +878,6 @@ OpenCR이 위치 오차를 이용하여 속도 명령을 계산하고, DYNAMIXEL
 /motor/state  = measured position [deg]
 ```
 
-이는 기존 8강의 RPM 기반 속도 인터페이스와 구분된다.
-
 ### 2. 전체 구조
 
 ```text
