@@ -1,6 +1,6 @@
 # Physical AI Lv.2 — Module 1
 
-Physical AI Lv.2 Module 1 과제 저장소입니다.
+조민혁의 Physical AI Lv.2 Module 1 과제 저장소입니다.
 
 Raspberry Pi와 OpenCR을 이용하여 DYNAMIXEL XM430-W350을 제어하고, 위치 피드백과 P 제어 특성을 확인했습니다.
 
